@@ -8,7 +8,7 @@ let numero1=2022;
 let numero2=20;
 console.log(numero1-numero2);
 
-console.log(estouMexendoNoConsole.log);
+console.log("estou mexendo no console.log");
 
 const quartaFeira=true;
-console.log(type of quartaFeira);
+console.log(typeof quartaFeira);
